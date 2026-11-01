@@ -1,0 +1,26 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Pytest cache
+.pytest_cache/
+
+# Local runtime state
+*.db
+*.sqlite
+*.sqlite3
+
+# Logs
+*.log
+
+# Backup files
+*.bak
+
+# Environment files
+.env
+.env.*
+
+# Ignore scanned data files (contain target data)
+bounty_scan.json
+current_target.json
+analysis_log_*.json

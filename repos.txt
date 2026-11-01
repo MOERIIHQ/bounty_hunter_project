@@ -1,0 +1,6 @@
+# Bounty Hunter - Target Repositories (Third-Party)
+github/docs
+microsoft/TypeScript
+tensorflow/tensorflow
+python/cpython
+supabase/supabase-py
